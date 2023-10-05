@@ -1,4 +1,4 @@
-import ProblemsTable from "@/components/ProblemsTable/ProblemsTable";
+import ProblemsTable from "@/src/components/ProblemsTable/ProblemsTable";
 import Topbar from "@/src/components/Topbar/Topbar";
 import useHasMounted from "@/src/hooks/useHasMounted";
 

@@ -2,7 +2,7 @@ import { auth } from "@/src/firebase/firebase";
 import Link from "next/link";
 import React from "react";
 import { useAuthState } from "react-firebase-hooks/auth";
-import Logout from "../Buttons/L";
+import Logout from "../Buttons/Logout";
 import { useSetRecoilState } from "recoil";
 import { authModalState } from "@/src/atoms/authModalAtom";
 import Image from "next/image";
